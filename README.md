@@ -1,5 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=70&section=header&fontSize=30&fontAlignY=30)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzerii%2Fhit-counter&count_bg=%2347A3FF&title_bg=%23D49CFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sig2nya)</br>
+<p align="center">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sig2nya&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+  <h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Linux-3766AB?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+</p>
+</p>
 
 * * *
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sig2nya&langs_count=5&layout=compact&theme=dark)](https://github.com/sig2nya)﻿
+<a href="https://github.com/sig2nya"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sig2nya&langs_count=5&layout=compact&theme=dark"/>
