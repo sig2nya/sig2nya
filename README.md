@@ -16,6 +16,7 @@
 <p align="center">
 <a href="https://github.com/sig2nya"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sig2nya&langs_count=5&layout=compact&theme=dark"/>
 </p>
-    
-* * *
-    않이... 로직 맞는데 이거 왜 안됌
+
+<p align="center">
+    <img width="568" alt="image" src="https://user-images.githubusercontent.com/70207093/215466700-6a603c87-984e-4f5d-9842-ff33f7d0727b.png">
+</p>
