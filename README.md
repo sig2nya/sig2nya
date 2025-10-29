@@ -15,5 +15,5 @@
 
 * * *
 <p align="center">
-<a href="https://github.com/sig2nya"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sig2nya&langs_count=6&layout=compact&theme=dark"/>
+<a href="https://github.com/sig2nya"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sig2nya&langs_count=8&layout=compact&theme=dark"/>
 </p>
